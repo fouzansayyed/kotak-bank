@@ -1,2 +1,0 @@
-uname=fouzan123
-pwd=fouzan@123
